@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background: #faf8ef;
+    font-family: 'Helvetica', sans-serif;
+    font-size: 16px;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+}
